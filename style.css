@@ -747,6 +747,7 @@ Version:	1.1
 	color:#fff;
 }
 #about-me .tab-content {
+	min-height: 370px;
 	background: #333;
 	padding: 30px 30px 30px 100px;
 	border-radius: 5px;
